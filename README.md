@@ -1,2 +1,2 @@
 # word-count-read-file
-A program to read file &amp; count words
+A program to count words in "story.txt" file attached
